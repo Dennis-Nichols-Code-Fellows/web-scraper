@@ -31,4 +31,5 @@ def get_citations_needed_report(url):
 
     return report, report_lines
 
+
 print(get_citations_needed_report(url))
