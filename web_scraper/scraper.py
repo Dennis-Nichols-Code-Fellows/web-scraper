@@ -30,3 +30,5 @@ def get_citations_needed_report(url):
         report_lines.append(tag.text.strip())
 
     return report, report_lines
+
+print(get_citations_needed_report(url))
