@@ -33,5 +33,3 @@ def get_citations_needed_report(url):
 
 
 print(get_citations_needed_report(url))
-
-#test comment
